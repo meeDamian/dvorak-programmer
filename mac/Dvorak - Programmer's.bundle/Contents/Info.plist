@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.dvorak- programmer's</string>
+	<key>CFBundleName</key>
+	<string>Dvorak - Programmer's</string>
+	<key>CFBundleVersion</key>
+	<string>1.1</string>
+	<key>KLInfo_Dvorak - Programmer's</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.dvorak- programmer's.dvorak- programmer's</string>
+		<key>TISIntendedLanguage</key>
+		<string>pl-PL</string>
+	</dict>
+</dict>
+</plist>
