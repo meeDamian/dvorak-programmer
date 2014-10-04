@@ -3,6 +3,8 @@ Dvorak - Programmer's
 
 Currently only Polish (ISO) version for Mac is available, but I'll gladly accept any PR.
 
+Click [here](https://github.com/chester1000/dvorak-programmer/blob/master/mac/Dvorak%20-%20Programmer's%20(Polish,%20ISO).pdf?raw=true) to see layout.
+
 ## Installation
 
 ###  Mac
