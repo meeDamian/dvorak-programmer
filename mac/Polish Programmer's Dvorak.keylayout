@@ -1,7 +1,7 @@
 <?XML version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-09-26 at 19:26 (CEST)-->
-<!--Last edited by Ukelele version 2.2.8 on 2014-10-04 at 01:54 (CEST)-->
+<!--Last edited by Ukelele version 2.2.8 on 2014-10-04 at 18:51 (CEST)-->
 <keyboard group="29" id="31183" name="Dvorak - Programmer's" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="Modifiers" mapSet="ANSI"/>
@@ -83,6 +83,7 @@
             <key code="46" output="m"/>
             <key code="47" output="v"/>
             <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
             <key code="50" output="§"/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
@@ -172,6 +173,7 @@
             <key code="46" output="M"/>
             <key code="47" output="V"/>
             <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
             <key code="50" output="∞"/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
@@ -215,30 +217,39 @@
             <key code="0" output="ą"/>
             <key code="1" output="ó"/>
             <key code="2" output="ę"/>
+            <key code="6" output="⌘"/>
+            <key code="7" output="␛"/>
             <key code="10" output="~"/>
             <key code="11" output="ź"/>
-            <key code="12" output=""/>
+            <key code="12" output="λ"/>
             <key code="13" output="…"/>
             <key code="14" output=""/>
             <key code="15" output="π"/>
             <key code="16" output="✗"/>
             <key code="18" output="√"/>
+            <key code="19" output="♂"/>
             <key code="21" output="³"/>
             <key code="22" output="≠"/>
             <key code="23" output="¹"/>
+            <key code="25" output="␆"/>
             <key code="26" output="•"/>
             <key code="27" output="¡"/>
             <key code="28" output="²"/>
+            <key code="29" output="♀"/>
             <key code="31" output="®"/>
             <key code="33" output="¿"/>
             <key code="34" output="ć"/>
             <key code="35" output="ł"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="ń"/>
+            <key code="38" output="♥"/>
+            <key code="39" output="␀"/>
             <key code="40" output="✓"/>
             <key code="41" output="ś"/>
             <key code="44" output="ż"/>
             <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
+            <key code="50" output="⌥"/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
             <key code="64" output="&#x0010;"/>
@@ -327,6 +338,7 @@
             <key code="46" output="M"/>
             <key code="47" output="V"/>
             <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
             <key code="50" output="§"/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
@@ -373,9 +385,12 @@
             <key code="11" output="Ź"/>
             <key code="12" output="≤"/>
             <key code="13" output="≥"/>
+            <key code="15" output="Π"/>
             <key code="19" output="£"/>
             <key code="20" output="€"/>
             <key code="21" output="⅓"/>
+            <key code="22" output="⩵"/>
+            <key code="23" output="⩶"/>
             <key code="26" output="⁂"/>
             <key code="27" output="‽"/>
             <key code="28" output="½"/>
