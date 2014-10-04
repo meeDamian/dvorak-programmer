@@ -1,7 +1,7 @@
 Dvorak - Programmer's
 =================
 
-Currently only Polish version for Mac is available, but I'll gladly accept any PR.
+Currently only Polish (ISO) version for Mac is available, but I'll gladly accept any PR.
 
 ## Installation
 
