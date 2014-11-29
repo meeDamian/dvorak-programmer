@@ -1,7 +1,7 @@
 <?XML version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-09-26 at 19:26 (CEST)-->
-<!--Last edited by Ukelele version 2.2.8 on 2014-10-04 at 18:52 (CEST)-->
+<!--Last edited by Ukelele version 2.2.8 on 2014-11-29 at 22:46 (CET)-->
 <keyboard group="29" id="31183" name="Dvorak - Programmer's" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="Modifiers" mapSet="ANSI"/>
@@ -308,17 +308,17 @@
             <key code="16" output="F"/>
             <key code="17" output="Y"/>
             <key code="18" output="&#x0026;"/>
-            <key code="19" output="["/>
-            <key code="20" output="{"/>
-            <key code="21" output="}"/>
-            <key code="22" output="="/>
-            <key code="23" output="("/>
+            <key code="19" output="7"/>
+            <key code="20" output="5"/>
+            <key code="21" output="3"/>
+            <key code="22" output="9"/>
+            <key code="23" output="1"/>
             <key code="24" output="#"/>
-            <key code="25" output="+"/>
-            <key code="26" output="*"/>
-            <key code="27" output="!"/>
-            <key code="28" output=")"/>
-            <key code="29" output="]"/>
+            <key code="25" output="4"/>
+            <key code="26" output="0"/>
+            <key code="27" output="8"/>
+            <key code="28" output="2"/>
+            <key code="29" output="6"/>
             <key code="30" output="@"/>
             <key code="31" output="R"/>
             <key code="32" output="G"/>
