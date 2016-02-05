@@ -1,5 +1,5 @@
 Dvorak - Programmer's
-=================
+=====================
 
 Currently only Polish (ISO) version for Mac is available, but I'll gladly accept any PR.
 
