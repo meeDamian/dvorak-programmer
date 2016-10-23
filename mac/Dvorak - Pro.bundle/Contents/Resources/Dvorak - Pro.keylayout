@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-09-26 at 19:26 (CEST)-->
-<!--Last edited by Ukelele version 3.1.1.113 on 2016-10-23 at 15:00 (GMT+5:30)-->
+<!--Last edited by Ukelele version 3.1.1.113 on 2016-10-24 at 00:59 (GMT+5:30)-->
 <keyboard group="29" id="31183" name="Dvorak - Pro" maxout="1">
 	<layouts>
 		<layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -217,9 +217,9 @@
 			<key code="0" output="ą"/>
 			<key code="1" output="ó"/>
 			<key code="2" output="ę"/>
-			<key code="3" output=""/>
-			<key code="4" output=""/>
-			<key code="5" output=""/>
+			<key code="3" output="←"/>
+			<key code="4" output="→"/>
+			<key code="5" output="↓"/>
 			<key code="6" output="⌥"/>
 			<key code="7" output="⌘"/>
 			<key code="8" output="⇧"/>
@@ -231,7 +231,7 @@
 			<key code="14" output=""/>
 			<key code="15" output="π"/>
 			<key code="16" output="✗"/>
-			<key code="17" output=""/>
+			<key code="17" output="↑"/>
 			<key code="18" output="€"/>
 			<key code="19" output="£"/>
 			<key code="20" output="₿"/>
@@ -397,9 +397,9 @@
 			<key code="0" output="Ą"/>
 			<key code="1" output="Ó"/>
 			<key code="2" output="Ę"/>
-			<key code="3" output=""/>
-			<key code="4" output=""/>
-			<key code="5" output=""/>
+			<key code="3" output="⇦"/>
+			<key code="4" output="⇨"/>
+			<key code="5" output="⇩"/>
 			<key code="6" output=""/>
 			<key code="7" output=""/>
 			<key code="8" output=""/>
@@ -411,7 +411,7 @@
 			<key code="14" output=""/>
 			<key code="15" output="Π"/>
 			<key code="16" output=""/>
-			<key code="17" output=""/>
+			<key code="17" output="⇧"/>
 			<key code="18" output="€"/>
 			<key code="19" output="£"/>
 			<key code="20" output="₿"/>
