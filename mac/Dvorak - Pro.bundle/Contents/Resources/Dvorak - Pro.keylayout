@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-09-26 at 19:26 (CEST)-->
-<!--Last edited by Ukelele version 3.1.1.113 on 2016-10-24 at 00:59 (GMT+5:30)-->
+<!--Last edited by Ukelele version 3.1.1.113 on 2016-11-27 at 23:06 (GMT+5:30)-->
 <keyboard group="29" id="31183" name="Dvorak - Pro" maxout="1">
 	<layouts>
 		<layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -261,7 +261,7 @@
 			<key code="44" output="ż"/>
 			<key code="45" output=""/>
 			<key code="46" output=""/>
-			<key code="47" output=""/>
+			<key code="47" output="😂"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" output=" "/>
 			<key code="50" output="~"/>
